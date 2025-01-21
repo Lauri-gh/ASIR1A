@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+    font-family: fantasy;
+}
+header{
+    text-align: center;
+    color: white;
+    background-color: black;
+}
+.formulario h1{
+    color: white;
+    background-color: black;
+
+}
+.vuelta{
+    color: black;
+}
+
+.formulario{
+    background-image: url(../img/IMG_5635.jpeg);
+
+}
